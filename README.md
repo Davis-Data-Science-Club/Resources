@@ -22,6 +22,7 @@ https://datasetsearch.research.google.com/
 
 #### Git and Github
  - https://docs.google.com/presentation/d/1NkPLLL9J96odjJ0NXbCjQMkXPjPSYpU0-cFfgWqvRUo/edit#slide=id.g2070d76f51e_0_286
+ - Video: https://www.youtube.com/watch?v=eRlNectedVc
 #### Neural Networks
  - Cool in-depth series on neural networks (pre-requisites: calculus, and basic python): https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 #### AWS
