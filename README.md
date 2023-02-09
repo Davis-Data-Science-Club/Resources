@@ -19,4 +19,9 @@ https://datasetsearch.research.google.com/
  - Kaggle
 
 ### Tutorials
+
+#### Neural Networks
  - Cool in-depth series on neural networks (pre-requisites: calculus, and basic python): https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+#### AWS
+ - Glue Data Catalog: https://www.youtube.com/watch?v=0pc7GdNtEZk
+ - Tableau AWS Athena Connector: https://help.tableau.com/current/pro/desktop/en-us/examples_amazonathena.htm
