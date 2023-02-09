@@ -1,5 +1,9 @@
 # Resources
 
+### How to Project Guides
+ - https://drive.google.com/file/d/1-RK2qjG2h1mrPfc6qSTqC6O9TdY0iSI7/view
+ - https://pittcs.wiki/skills/getting-started-with-x/projects/
+
 ### Free APIs: 
  - https://pythonrepo.com/repo/public-apis-public-apis-python-third-party-apis-wrappers#health
 ### Free Datasets:
